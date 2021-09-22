@@ -1,4 +1,4 @@
-# IP Addredd Tracker
+# IP Address Tracker
 IP Address Tracker App enables to search for any IP addresses or domains and see the key information and location. To get the IP Address locations, I used the IP Geolocation API by IPify.
 
 <p align="center">
