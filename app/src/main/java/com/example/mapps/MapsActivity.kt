@@ -73,7 +73,7 @@ class MapsActivity : AppCompatActivity(), OnMapReadyCallback {
     }
 
     private fun getDetails(str: String) {
-        var API_KEY = "at_QlQabVBZrzc8G8i3k0MzGLkQqFdAR"
+        var API_KEY = "" #Your API Key here
         var API_URL = "https://geo.ipify.org/api/v1?"
         var url = API_URL + "&apiKey=" + API_KEY + "&ipAddress=" + str
 
